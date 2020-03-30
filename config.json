@@ -1,0 +1,13 @@
+{
+  "LDAP": {
+    "enabled": true
+  },
+
+  "API": {
+    "port": 40501
+  },
+
+  "SOCKETS": {
+    "port": 40502
+  }
+}
